@@ -1,6 +1,0 @@
----
-title: "Advanced Phase Equilibria Calculations"
-author: "DOFPro group"
----
-
-Intro to advanced phase equilibria calculations

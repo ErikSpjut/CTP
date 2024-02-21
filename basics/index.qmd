@@ -1,6 +1,0 @@
----
-title: "Basics of Engineering"
-author: "DOFPro group"
----
-
-Basic Tools in Engineering

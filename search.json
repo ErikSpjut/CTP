@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "react/index.html",
+    "href": "react/index.html",
+    "title": "Chemical Kinetics and Reactors",
+    "section": "",
+    "text": "More in depth study of chemical reactor engineering"
+  },
+  {
+    "objectID": "appx/index.html",
+    "href": "appx/index.html",
+    "title": "Appendices",
+    "section": "",
+    "text": "There are the following appendices:\n\nAppendix A\nAppendix A\n\n\nAppendix B\nAppendix B\n\n\nAppendix C\nAppendix C"
+  },
+  {
+    "objectID": "phase/index.html",
+    "href": "phase/index.html",
+    "title": "Advanced Phase Equilibria Calculations",
+    "section": "",
+    "text": "Intro to advanced phase equilibria calculations"
+  },
+  {
+    "objectID": "basics/index.html",
+    "href": "basics/index.html",
+    "title": "Basics of Engineering",
+    "section": "",
+    "text": "Basic Tools in Engineering"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chemical and Thermal Processes",
+    "section": "",
+    "text": "Engineering Basics\n\nStatistics, Measurements, and Calculations\nProcess Data and Variables, such as Pressure, Temperature, Mass, Moles, etc.\nConverting among systems of units\nDimensionless numbers\n\nSystem Definition\n\nOpen or Closed\nTransient or Steady State\n\nMaterial Balances\n\nMass Balances\nMole Balances\nEquations of State and Phase Equilibria\n\nEnergy Balances or the 1st Law of Thermodynamics\nEntropy Balances or the 2nd Law of Thermodynamics\nThermodynamic Efficiency and the Combined 1st and 2nd Laws\n\n\n\n\nThe principles in Chemical and Thermal Processes are applicable in\n\nChemical Engineering\nPetroleum Engineering\nMechanical Engineering\nMaterials Engineering\nBioengineering\nEnvironmental Engineering\nEnergy Engineering\nSustainability\nManufacturing Engineering\nIndustrial Engineering\nMarine and Aerospace Engineering"
+  },
+  {
+    "objectID": "index.html#engineering-principles-discussed",
+    "href": "index.html#engineering-principles-discussed",
+    "title": "Chemical and Thermal Processes",
+    "section": "",
+    "text": "Engineering Basics\n\nStatistics, Measurements, and Calculations\nProcess Data and Variables, such as Pressure, Temperature, Mass, Moles, etc.\nConverting among systems of units\nDimensionless numbers\n\nSystem Definition\n\nOpen or Closed\nTransient or Steady State\n\nMaterial Balances\n\nMass Balances\nMole Balances\nEquations of State and Phase Equilibria\n\nEnergy Balances or the 1st Law of Thermodynamics\nEntropy Balances or the 2nd Law of Thermodynamics\nThermodynamic Efficiency and the Combined 1st and 2nd Laws"
+  },
+  {
+    "objectID": "index.html#why-chemical-and-thermal-processes",
+    "href": "index.html#why-chemical-and-thermal-processes",
+    "title": "Chemical and Thermal Processes",
+    "section": "",
+    "text": "The principles in Chemical and Thermal Processes are applicable in\n\nChemical Engineering\nPetroleum Engineering\nMechanical Engineering\nMaterials Engineering\nBioengineering\nEnvironmental Engineering\nEnergy Engineering\nSustainability\nManufacturing Engineering\nIndustrial Engineering\nMarine and Aerospace Engineering"
+  },
+  {
+    "objectID": "balances/index.html",
+    "href": "balances/index.html",
+    "title": "Systems and Balances",
+    "section": "",
+    "text": "Intro to Systems and Balances"
+  }
+]
