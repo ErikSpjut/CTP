@@ -9,8 +9,18 @@ website:
         text: Home
       - href: basics/
         text: 'Basics'
-      - href: balances/
-        text: 'Balances'
+      - text: 'Balances'
+        menu:
+        - href: balances/general
+          text: 'General'
+        - href: balances/material
+          text: 'Material'
+        - href: balances/energy
+          text: 'Energy'
+        - href: balances/entropy
+          text: 'Entropy'
+        - href: balances/exergy
+          text: 'exergy'
       - href: phase/
         text: 'Phase Equilibria'
       - href: react/

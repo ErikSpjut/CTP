@@ -1,0 +1,28 @@
+---
+title: "Energy Balances"
+author: "DOFPro group"
+---
+
+The First Law of Thermodynamics and Energy Balances are synonymous.
+
+Here is the set of videos on the First Law
+
+{{< video https://youtu.be/WkH39iAMOOg >}}
+
+{{< video https://youtu.be/KrdZMwE_238 >}}
+
+{{< video https://youtu.be/6qpFuS_3CrY >}}
+
+{{< video https://youtu.be/BKp0fCT50QY >}}
+
+{{< video https://youtu.be/wkUahTL-C0k >}}
+
+{{< video https://youtu.be/JDoLHZdbJNI >}}
+
+{{< video https://youtu.be/lj9zNKs0UOQ >}}
+
+{{< video https://youtu.be/RZZQsjS94Oo >}}
+
+{{< video https://youtu.be/lj9zNKs0UOQ >}}
+
+Then for reacting systems ...
