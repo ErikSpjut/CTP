@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Chemical and Thermal Processes"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: basics/
+        text: 'Basics'
+      - href: balances/
+        text: 'Balances'
+      - href: phase/
+        text: 'Phase Equilibria'
+      - href: react/
+        text: 'Reactors'
+      - href: appx/
+        text: 'Appendices'
+
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
+

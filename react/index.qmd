@@ -1,0 +1,6 @@
+---
+title: "Chemical Kinetics and Reactors"
+author: "DOFPro group"
+---
+
+More in depth study of chemical reactor engineering
